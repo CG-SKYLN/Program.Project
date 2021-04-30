@@ -12,5 +12,8 @@ A web application that displays statistics and images of different supercars thr
       - Topic research & image searching.
       - Writing JS.
 
+## Program Design Concept
+An idea of what we want the program to look like, created in draw.io.
+![ProgramConcept](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/Concept.png)
 
 [Repl.it Project](https://replit.com/join/jebhytom-caelangrippa)
