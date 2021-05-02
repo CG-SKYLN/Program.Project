@@ -19,7 +19,7 @@ A web application that displays statistics and images of different supercars thr
 ## Program Design Concept
 An idea of what we want the program to look like, created in draw.io.
 
-What the user will see the moment the app is ran.
+What the user will see the moment the app is ran. We are planning to add 2 extra car brands to this list.
 
 ![ProgramConcept](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/images/ConceptStarting.png)
 
