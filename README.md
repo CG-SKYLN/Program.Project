@@ -31,4 +31,4 @@ The car dropdown reveals an image of the car, followed with the model year and p
 
 ![ConceptDropdown2](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/images/ConceptDropdown2.png)
 
-[Repl.it Project](https://replit.com/join/jebhytom-caelangrippa)
+[Finished App](https://supercar-stats.caelangrippa.repl.co/)
