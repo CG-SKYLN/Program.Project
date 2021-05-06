@@ -19,16 +19,29 @@ A web application that displays statistics and images of different supercars thr
       - Writing JS.
 
 ## Program Design Concept
-An idea of what we want the program to look like, created in draw.io.
+An idea of what we wanted the program to look like, created in draw.io.
 
-What the user will see the moment the app is ran. We are planning to add 2 other car brands to this list.
+### This is what the user will see the moment the app is run. We added 2 other car brands to the app.
 
+Concept:
 ![ProgramConcept](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/images/ConceptStarting.png)
 
-One brand dropdown menu is opened, revealing three car models made by that brand. The last dropdown has some extra cars with their respective brand names.
+Finished Product:
+![FinalResult](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/images/Final-Result.png)
 
+
+### One brand dropdown menu is opened, revealing three car models made by that brand. The last dropdown has some extra cars with their respective brand names.
+
+Concept:
 ![ConceptDropdown1](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/images/ConceptDropdown1.png)
+Finished Product:
+![FinalResult1](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/images/Final-Result-1.png)
 
-The car dropdown reveals an image of the car, followed with the model year and price, and then some statistics. At the very bottom is a small fact that is unique to the model.
 
+### The car dropdown reveals an image of the car, followed with the model year and price, and then some statistics. At the very bottom is a small fact that is unique to the model. Some cars have different styles that the use can check out.
+
+Concept:
 ![ConceptDropdown2](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/images/ConceptDropdown2.png)
+
+Finished Product:
+![FinalResult2](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/images/Final-Result-2.png)
