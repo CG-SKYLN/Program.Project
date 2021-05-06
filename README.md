@@ -32,7 +32,7 @@ Finished Product:
 ![FinalResult](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/images/Final-Result.png)
 
 
-### One brand dropdown menu is opened, revealing three car models made by that brand. The last dropdown has some extra cars with their respective brand names.
+### One brand dropdown menu is opened, revealing three car models made by that brand. The "Other" option has some extra cars with their respective brand names.
 
 Concept:
 
