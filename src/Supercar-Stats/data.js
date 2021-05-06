@@ -209,7 +209,7 @@ var facts = [
   "A special version of the Chiron Super Sport 300+ model broke a world record for land speed in a production automobile in 2019.",
   "One special model of the Veyron was the 16.4 Super Sport. It set a world record for land speed in a production automobile in 2010.",
 
-  "The key to this car is a key fob that communicates to the car to allow the dirver to start the car. The design is the Ferrari logo.",
+  "The key to this car is a key fob that communicates to the car to allow the dirver to start the car. The design of the small square key is the Ferrari logo.",
   "This car was one of the first super/sports cars to be built with an electric/gas hybrid motor. It is also rear wheel drive, while many other high-end racing cars are four-wheel drive.",
   "This car is the result of extensive research and development on the LaFerrari model. It has been redesigned to improve its performance on tracks by removing as much weight as possible.",
 
@@ -223,7 +223,7 @@ var facts = [
 
   "Its not really a supercar... DMC started development on an electric model of the DeLorean in 2012, but results of the finished car have yet to be released.",
   "The name comes from the unique achievement of the worlds first car with a 1:1 weight to power ratio. The exact amount is 1,360 kg weight to 1,360 bhp of power.",
-  "The 2020 GT has been extremely engineered for top perfromance: the body is the first carbon fiber body produced by Ford, the suspension puts the car extremely close to the ground, the tailights have been hollowed out in the center to minimize drag."
+  "The 2020 GT has been extremely engineered for top perfromance: the body is the first carbon fiber body produced by Ford, the suspension puts the car extremely close to the ground, the tailights have even been hollowed out in the center to minimize drag."
 ];
 
 
