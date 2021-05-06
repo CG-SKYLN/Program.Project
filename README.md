@@ -18,6 +18,8 @@ A web application that displays statistics and images of different supercars thr
       - Topic research & image searching.
       - Writing JS.
 
+[Jump to feedback](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/README.md#feedback-received)
+
 ## Program Progress
 An idea of what we wanted the program to look like, created in draw.io, compared to the finished app.
 
