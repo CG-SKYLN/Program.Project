@@ -1,0 +1,62 @@
+#intro{
+  font : 17px Serif;
+}
+#heading{
+  font : 40px Impact;
+}
+#creds{
+  font : 10px Arial;
+}
+details > summary {
+		padding: 5px;
+		width: 600px;
+		background-color: #5995C5;
+		font: 25px Serif;
+	}
+
+	details > details {
+		width: 625px;
+		background-color: #5CE181;
+		align-items: center;
+    border-collapse: collapse;
+    border : 1px solid black;
+	}
+
+	details > details > summary {
+		padding: 5px;
+		width: 600px;
+		background-color: #5CE181;
+	}
+  details > details > details{
+    width : 650px;
+    background-color: rgb(23, 158, 158);
+  }
+    details > details > details > summary{
+    width : 600px;
+    padding: 5px;
+    background-color: rgb(23, 158, 158);
+  }
+	details > details > table {
+
+		width: 600px;
+		background-color: #5CE181;
+	}
+
+	details > details > p {
+
+		width: 600px;
+		background-color: #5CE181;
+	}
+
+	table , th{
+    border:2px solid black;
+    empty-cells : hide;
+  }
+	td {
+		border: 2px solid black;
+    text-align : center;
+	}
+  table.center {
+  margin-left: auto;
+  margin-right: auto;
+}
