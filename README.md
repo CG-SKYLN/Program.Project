@@ -2,7 +2,7 @@
 
 A web application that displays statistics and images of different supercars through a series of dropdowns, organized by car brand and date of each model.
 
-[Source Code](https://github.com/CG-SKYLN/Program.Project/tree/gh-pages/src/Supercar Stats)
+[Source Code](https://github.com/CG-SKYLN/Program.Project/tree/gh-pages/src/Supercar-Stats)
 
 [Source Code zipped folder](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/src/Supercar-Stats.zip)
 
