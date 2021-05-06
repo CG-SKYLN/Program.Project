@@ -2,6 +2,8 @@
 
 A web application that displays statistics and images of different supercars through a series of dropdowns, organized by car brand and date of each model.
 
+[Finished App](https://supercar-stats.caelangrippa.repl.co/)
+
 [Source Code](https://github.com/CG-SKYLN/Program.Project/tree/gh-pages/src/Supercar-Stats)
 
 [Source Code zipped folder](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/src/Supercar-Stats.zip)
@@ -30,5 +32,3 @@ One brand dropdown menu is opened, revealing three car models made by that brand
 The car dropdown reveals an image of the car, followed with the model year and price, and then some statistics. At the very bottom is a small fact that is unique to the model.
 
 ![ConceptDropdown2](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/images/ConceptDropdown2.png)
-
-[Finished App](https://supercar-stats.caelangrippa.repl.co/)
