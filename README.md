@@ -42,7 +42,7 @@ Finished Product:
 ![FinalResult1](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/images/Final-Result-1.png)
 
 
-### The car dropdown reveals an image of the car, followed with the model year and price, and then some statistics. At the very bottom is a small fact that is unique to the model. Some cars have different styles that the use can check out.
+### The car dropdown reveals an image of the car, followed with the model year and price, and then some statistics. At the very bottom is a small fact that is unique to the model. Some cars have different styles that the user can check out.
 
 Concept:
 
