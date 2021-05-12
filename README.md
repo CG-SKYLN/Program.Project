@@ -2,11 +2,15 @@
 
 A web application that displays statistics and images of different supercars through a series of dropdowns, organized by car brand and date of each model.
 
-[Finished App](https://supercar-stats.caelangrippa.repl.co/)
+[Alpha Version](https://supercar-stats.caelangrippa.repl.co/)
 
-[Source Code](https://github.com/CG-SKYLN/Program.Project/tree/gh-pages/src/Supercar-Stats)
+[Beta Version Coming Soon!]()
 
-[Source Code zipped folder](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/src/Supercar-Stats.zip)
+[Current Unfinished Version](https://supercarstatsdevelopment.caelangrippa.repl.co/)
+
+[Source Code (Alpha)](https://github.com/CG-SKYLN/Program.Project/tree/gh-pages/src/Supercar-Stats)
+
+[Source Code zipped folder (Alpha)](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/src/Supercar-Stats.zip)
 
 ## Group Members & Tasks:
   - Caelan Grippa
