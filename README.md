@@ -64,10 +64,11 @@ v0.1:
 
 ## Feedback Received
 
-- Refine data & specify price.
-- Text size settings.
-- Better graphics
-- Scrolling based website instead of dropdowns.
-- Adding separate stats to the car variations.
-- Separation lines / borders.
-- Mouse icon changes to a pointer hand while hovering over dropdowns.
+-v0.1
+  - Refine data & specify price.
+  - Text size settings.
+  - Better graphics
+  - Scrolling based website instead of dropdowns.
+  - Adding separate stats to the car variations.
+  - Separation lines / borders.
+  - Mouse icon changes to a pointer hand while hovering over dropdowns.
