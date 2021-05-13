@@ -4,7 +4,7 @@ A web application that displays statistics and images of different supercars thr
 
 [Alpha Version](https://supercar-stats.caelangrippa.repl.co/)
 
-[Beta Version Coming Soon!]()
+[Beta Version Coming Soon!](https://github.com/CG-SKYLN/Program.Project)
 
 [Current Unfinished Version](https://supercarstatsdevelopment.caelangrippa.repl.co/)
 
