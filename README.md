@@ -27,7 +27,7 @@ Beta Version Coming Soon!
 [Jump to feedback](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/README.md#feedback-received)
 
 ## Program Progress
-An idea of what we wanted the program to look like, created in draw.io, compared to the finished app.
+An idea of what we wanted the program to look like, created in draw.io, compared to the alpha version.
 
 ### This is what the user will see the moment the app is run. We added 2 other car brands to the app.
 
@@ -35,7 +35,7 @@ Concept:
 
 ![ProgramConcept](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/images/ConceptStarting.png)
 
-Finished Product:
+v0.1:
 
 ![FinalResult](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/images/Final-Result.png)
 
@@ -45,7 +45,8 @@ Finished Product:
 Concept:
 
 ![ConceptDropdown1](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/images/ConceptDropdown1.png)
-Finished Product:
+
+v0.1:
 
 ![FinalResult1](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/images/Final-Result-1.png)
 
@@ -56,7 +57,7 @@ Concept:
 
 ![ConceptDropdown2](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/images/ConceptDropdown2.png)
 
-Finished Product:
+v0.1:
 
 ![FinalResult2](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/images/Final-Result-2.png)
 
