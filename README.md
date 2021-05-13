@@ -3,7 +3,7 @@
 A web application that displays statistics and images of different supercars through a series of dropdowns, organized by car brand and date of each model.
 
 ## Versions
-[Alpha Version (v0.1)](https://supercar-stats.caelangrippa.repl.co/)
+[Alpha Version](https://supercar-stats.caelangrippa.repl.co/)
 
 Beta Version Coming Soon!
 
@@ -63,3 +63,11 @@ v0.1:
 
 
 ## Feedback Received
+
+- Refine data & specify price.
+- Text size settings.
+- Better graphics
+- Scrolling based website instead of dropdowns.
+- Adding separate stats to the car variations.
+- Separation lines / borders.
+- Mouse icon changes to a pointer hand while hovering over dropdowns.
