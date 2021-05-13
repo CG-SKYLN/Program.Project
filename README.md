@@ -9,6 +9,8 @@ Beta Version Coming Soon!
 
 [Under Development](https://supercarstatsdevelopment.caelangrippa.repl.co/)
 
+[Jump to feedback](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/README.md#feedback-received)
+
 ## Source Code
 [Source Code (Alpha)](https://github.com/CG-SKYLN/Program.Project/tree/gh-pages/src/Supercar-Stats)
 
@@ -23,8 +25,6 @@ Beta Version Coming Soon!
       - Topic & info displayed/needed.
       - Topic research & image searching.
       - Writing JS.
-
-[Jump to feedback](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/README.md#feedback-received)
 
 ## Program Progress
 An idea of what we wanted the program to look like, created in draw.io, compared to the alpha version.
