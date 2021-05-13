@@ -64,7 +64,7 @@ v0.1:
 
 ## Feedback Received
 
--v0.1
+- v0.1
   - Refine data & specify price.
   - Text size settings.
   - Better graphics
