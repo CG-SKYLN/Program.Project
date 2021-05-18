@@ -12,9 +12,9 @@ Beta Version Coming Soon!
 [Under Development](https://supercarstatsdevelopment.caelangrippa.repl.co/)
 
 ## Source Code
-[Source Code (Alpha)](https://github.com/CG-SKYLN/Program.Project/tree/gh-pages/src/Supercar-Stats-v0.1)
+[v0.1](https://github.com/CG-SKYLN/Program.Project/tree/gh-pages/src/v0.1)
 
-[Source Code zipped folder (Alpha)](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/src/Supercar-Stats-v0.1.zip)
+[Open Beta](https://github.com/CG-SKYLN/Program.Project/tree/gh-pages/src/Open%20Development)
 
 ## Group Members & Tasks:
   - Caelan Grippa
