@@ -31,7 +31,7 @@ An idea of what I wanted the program to look like, created in draw.io, compared 
 
 Concept:
 
-![ProgramConcept](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/images/ConceptStarting.png)
+
 
 v0.1:
 
@@ -42,7 +42,7 @@ v0.1:
 
 Concept:
 
-![ConceptDropdown1](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/images/ConceptDropdown1.png)
+
 
 v0.1:
 
@@ -53,7 +53,7 @@ v0.1:
 
 Concept:
 
-![ConceptDropdown2](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/images/ConceptDropdown2.png)
+
 
 v0.1:
 
