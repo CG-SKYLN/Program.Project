@@ -21,15 +21,13 @@ v1.0 Coming Soon!
       - Design concept.
       - Writing and combining JS & HTML.
       - Repository & file organization.
-  - Nate Sauthoff
       - Topic & info displayed/needed.
       - Topic research & image searching.
-      - Writing JS.
 
 ## Program Progress
-An idea of what we wanted the program to look like, created in draw.io, compared to the alpha version.
+An idea of what I wanted the program to look like, created in draw.io, compared to the alpha version.
 
-### This is what the user will see the moment the app is run. We added 2 other car brands to the app.
+### This is what the user will see the moment the app is run. I added 2 other car brands to the app.
 
 Concept:
 
