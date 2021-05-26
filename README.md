@@ -7,8 +7,6 @@ A web application that displays statistics and images of different supercars thr
 ## Versions
 [v1.0](http://supercarstats.great-site.net/)
 
-[Under Development](http://supercarstatsdevelopment.epizy.com/)
-
 ## Source Code
 [v0.1](https://github.com/CG-SKYLN/Program.Project/tree/gh-pages/src/v0.1)
 
