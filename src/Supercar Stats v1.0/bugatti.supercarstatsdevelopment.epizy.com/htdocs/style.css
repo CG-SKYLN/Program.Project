@@ -1,0 +1,33 @@
+#title{
+    font : Impact;
+    text-align: center;
+}
+#links{
+    background-color: darkgray;
+    text-align: center;
+}
+#links > button{
+    width: 19%;
+    margin: 10px 5px;
+    padding: 10px 0px 10px 0px;
+    background-color: skyblue;
+    font: 15px Arial;
+    border: 1px solid black;
+}
+#main
+{
+    text-align:center;
+    margin:center;
+}
+div{
+    width: 700px;
+    padding: 5px;
+    text-align:center;
+    margin:auto;
+    border:1px solid black;
+}
+table, td{
+    text-align:center;
+    margin:auto;
+    border:1px solid black;
+}
