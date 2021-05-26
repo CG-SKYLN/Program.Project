@@ -5,16 +5,14 @@ A web application that displays statistics and images of different supercars thr
 [Jump to feedback](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/README.md#feedback-received)
 
 ## Versions
-[v0.1](http://supercarstats.great-site.net/)
-
-v1.0 Coming Soon!
+[v1.0](http://supercarstats.great-site.net/
 
 [Under Development](http://supercarstatsdevelopment.epizy.com/)
 
 ## Source Code
 [v0.1](https://github.com/CG-SKYLN/Program.Project/tree/gh-pages/src/v0.1)
 
-[Under Development](https://github.com/CG-SKYLN/Program.Project/tree/gh-pages/src/Open%20Development)
+[v1.0](https://github.com/CG-SKYLN/Program.Project/tree/gh-pages/src/Supercar Stats v1.0)
 
 ## Group Members & Tasks:
   - Caelan Grippa
