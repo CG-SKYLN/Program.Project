@@ -34,7 +34,7 @@ A web application that displays statistics and images of different supercars thr
 
 ![v0.1Preview.png](https://raw.githubusercontent.com/CG-SKYLN/Program.Project/gh-pages/images/Final-Result.png)
 
-###v1.0
+### v1.0
 
 ![v1.0Preview.png](https://raw.githubusercontent.com/CG-SKYLN/Program.Project/gh-pages/images/v1.0Preview.png)
 
