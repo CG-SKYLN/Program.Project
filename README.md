@@ -17,6 +17,7 @@ A web application that displays statistics and images of different supercars thr
       - Design concept.
       - Writing and combining JS & HTML.
       - Repository & file organization.
+  - Nate Sauthoff
       - Topic & info displayed/needed.
       - Topic research & image searching.
 
