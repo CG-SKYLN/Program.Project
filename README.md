@@ -10,7 +10,9 @@ A web application that displays statistics and images of different supercars thr
 ## Source Code
 [v0.1](https://github.com/CG-SKYLN/Program.Project/tree/gh-pages/src/v0.1)
 
-[v1.0](https://github.com/CG-SKYLN/Program.Project/tree/gh-pages/src/Supercar-Stats-v1.0)
+[v1.0](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/src/v1.0)
+
+[v1.0 Zipped Folder](https://github.com/CG-SKYLN/Program.Project/blob/gh-pages/src/v1.zip)
 
 ## Group Members & Tasks:
   - Caelan Grippa
